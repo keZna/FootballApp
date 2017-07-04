@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basketball App</string>
+    <string name="btnresults">Results</string>
+    <string name="lblfeatures">Features:</string>
+    <string name="lblscore">Score:</string>
+    <string name="lblmatch_centre">Match Centre</string>
+    <string name="btnhome">Home</string>
+    <string name="btnaway">Away</string>
+    <string name="lblsundowns_fc">Sundowns FC(Home)</string>
+    <string name="lblmanchester_united">Manchester United(Away)</string>
+    <string name="lblHscore">0</string>
+    <string name="lblAscore">0</string>
+    <string name="live_score">Live Score</string>
+</resources>
